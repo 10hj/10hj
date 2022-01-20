@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @10hj
-- 👀 I’m interested in ...cutie game
-- 🌱 I’m currently learning ...processing and scratch
+- 👀 I’m interested in ...casual game
+- 🌱 I’m currently learning ...html & css & javascript
 - 💞️ I’m looking to collaborate on ...apple
 - 📫 How to reach me ...at the hongik university
 
